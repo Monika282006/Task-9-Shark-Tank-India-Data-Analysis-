@@ -129,46 +129,19 @@ The dashboard provides an interactive view of investment activity, investor part
 \## Project Structure
 
 
+## Project Structure
 
 ```text
-
 Shark-Tank-India-Data-Analysis/
-
 │
-
 ├── README.md
-
-│
-
-├── data/
-
-│   └── Shark\_Tank\_India dataset
-
-│
-
-├── dashboard/
-
-│   ├── Shark\_Tank\_India\_Investment\_Analysis.pbix
-
-│   └── Shark\_Tank\_India\_Dashboard.pdf
-
-│
-
-├── reports/
-
-│   ├── Shark\_Tank\_India\_Project\_Report.pdf
-
-│   └── Founder\_Success\_Pattern\_Summary.pdf
-
-│
-
-└── documentation/
-
-&#x20;   └── Founder\_Success\_Pattern\_Summary.docx
-
+├── Shark_Tank_India_Investment_Analysis.pbix
+├── Shark_Tank_India_Dashboard.pdf
+├── Shark_Tank_India_Project_Report.pdf
+├── Founder_Success_Pattern_Summary.pdf
+├── Founder_Success_Pattern_Summary.docx
+└── Shark_Tank_India.csv
 ```
-
-
 
 \## Project Deliverables
 
